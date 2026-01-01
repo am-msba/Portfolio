@@ -1,8 +1,11 @@
-## 
+##
+
+This project aimed to predict seasonal and H1N1 vaccination rates based on existing factors and allowing the Regional Healthcare Department to better prepare for flu season with limited resources. This will allow them to better target specific populations with the needed resources. The model prediction will also allow for cost saving measures because the outreach efforts will have been tailored to specific populations rather than attempting to use a one size fits all approach to the population.
+
+The dataset that was used to train the model used 26,707 samples that had 35 features which were categorized into behavioral, opinion, demographics, and health. . The two target variables decided for this were h1n1_vaccine and seasonal_vaccine which were binary decision variables that indicated if an individual recieved a vaccine or not. The metric used to evaluate the models was the Mean ROC AUC. 
 
 <!--
 **am-msba/am-msba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
