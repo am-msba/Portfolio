@@ -1,4 +1,4 @@
-##
+##Predict H1N1 and seasonal flu vaccination rates
 
 This project aimed to predict seasonal and H1N1 vaccination rates based on existing factors and allowing the Regional Healthcare Department to better prepare for flu season with limited resources. This will allow them to better target specific populations with the needed resources. The model prediction will also allow for cost saving measures because the outreach efforts will have been tailored to specific populations rather than attempting to use a one size fits all approach to the population.
 
