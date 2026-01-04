@@ -1,4 +1,5 @@
-## 
+<h1>Factory Location MIP</h1> 
+
 This project is a Mixed Integer Program (MIP) applied to the Facility Location Problem. This problem involves deciding where to open a facility, such as a factory or warehouse, and allocating customers to them based on a variety of factors such as distance and any costs involved. This project used a simple approach for the factors involved, however future directions for this project will have potentially more factors involved in the optimization process. The data set used for this project was a sample set that I created within the colab environment and not taken from an external source.   
 <!--
 **am-msba/am-msba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
