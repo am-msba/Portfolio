@@ -1,16 +1,19 @@
-## 
+## 📊 Project Portfolio – Ahad Mohamed
 
-<!--
-**am-msba/am-msba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my project portfolio!  
+This repository showcases a collection of academic and personal projects focused on **data analytics, optimization, SQL, and Python**. Each project demonstrates practical problem-solving, technical skills, and real-world applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I’m a Master’s student in Business Analytics at **UW–Madison** with strong interests in:
+
+- Data analysis & visualization  
+- SQL & database design  
+- Optimization modeling (Pyomo, OR tools)  
+- Business decision modeling  
+
+📫 **Contact**  
+- LinkedIn: https://linkedin.com/in/yourprofile  
+- Email: yourname@email.com  
