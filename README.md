@@ -14,6 +14,4 @@ I’m a Master’s student in Business Analytics at **UW–Madison** with strong
 - Optimization modeling (Pyomo, OR tools)  
 - Business decision modeling  
 
-📫 **Contact**  
-- LinkedIn: https://linkedin.com/in/yourprofile  
-- Email: yourname@email.com  
+
