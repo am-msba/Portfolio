@@ -1,7 +1,7 @@
 ## 📊 Project Portfolio – Ahad Mohamed
 
 Welcome to my project portfolio!  
-This repository showcases a collection of academic and personal projects focused on **data analytics, optimization, SQL, and Python**. Each project demonstrates practical problem-solving, technical skills, and real-world applications.
+This repository showcases a collection of academic and personal projects focused on **data analytics, optimization, and Python**. Each project demonstrates practical problem-solving, technical skills, and real-world applications.
 
 ---
 
