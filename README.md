@@ -4,7 +4,7 @@ This project aimed to predict seasonal and H1N1 vaccination rates based on exist
 
 The dataset that was used to train the model used 26,707 samples that had 35 features which were categorized into behavioral, opinion, demographics, and health. The two target variables decided for this were h1n1_vaccine and seasonal_vaccine which were binary decision variables that indicated if an individual recieved a vaccine or not. The metric used to evaluate the models was the Mean ROC AUC. The three models that were used were logistic regression, logistic regression with forward selection, and random forest with hyperparamter tuning. Of the three models the random forest gave us the highest mean ROC AUC which indicated that it was the best prediction model to use.
 
-In this repository you can find the ipnyb file for the dataset and models. There is also a slide deck summarizing the project included for viewing.
+In this repository you can find the ipnyb file and csv files for the dataset and modeling. There is also a slide deck summarizing the project included for viewing.
 <!--
 **am-msba/am-msba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
