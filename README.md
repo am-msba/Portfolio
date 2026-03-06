@@ -11,7 +11,7 @@ I’m a Master’s student in Business Analytics at **UW–Madison** with strong
 
 - Data analysis & visualization  
 - SQL & database design  
-- Optimization modeling (Pyomo, OR tools)  
+- Optimization modeling 
 - Business decision modeling  
 
 
