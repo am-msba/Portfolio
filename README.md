@@ -1,17 +1,6 @@
-## 📊 Project Portfolio – Ahad Mohamed
 
-Welcome to my project portfolio!  
-This repository showcases a collection of academic and personal projects focused on **data analytics, optimization, and Python**. Each project demonstrates practical problem-solving, technical skills, and real-world applications.
+## 📊 Welcome to my Portfolio
+I’m currently a Master’s student in Business Analytics at **UW–Madison** and am currently searching for a role in the analytics world. I'm passionate about leveraging data to guide businesses in strategic decision-making and strongly believe in creating a collaborative team environment that follows diversity, equity, and inclusion principles. Some of my core competencies include data cleaning, data transformations, exploratory data analysis, SQL, Python, PowerBI, and Tableau among others. I am always open to hearing about new opportunities so please feel free to connect with me on LinkedIn.
+
 
 ---
-
-## 👨‍💻 About Me
-
-I’m a Master’s student in Business Analytics at **UW–Madison** with strong interests in:
-
-- Data analysis & visualization  
-- SQL & database design  
-- Optimization modeling 
-- Business decision modeling  
-
-
