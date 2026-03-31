@@ -3,3 +3,12 @@ logo: /assets/Headshot.png
 #description text below logo
 show_download: false
 theme: jekyll-theme-minimal
+
+
+title: am-msba Portfolio
+description: Business Analytics & Data Science Projects
+
+#External navigation links
+nav_links:
+  - title: "MIP Optimizer"
+    url: "https://am-msba.github.io/MIP-Optimization-Solver/"
