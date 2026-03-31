@@ -1,4 +1,4 @@
-[**Home**](https://am-msba.github.io/) | [**MIP Optimizer**](https://am-msba.github.io/MIP-Optimization-Solver/) | 
+[**MIP Optimizer**](https://am-msba.github.io/MIP-Optimization-Solver/) | 
 
 ---
 
