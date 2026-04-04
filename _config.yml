@@ -10,3 +10,5 @@ description: Business Analytics & Data Science Projects
 nav_links:
   - title: "MIP Optimizer"
     url: "https://am-msba.github.io/MIP-Optimization-Solver/"
+  - title: "ML Prediction Model"
+    url: "https://am-msba.github.io/Machine_Learning_Prediction_Project/"
