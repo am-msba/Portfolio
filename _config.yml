@@ -1,5 +1,6 @@
 title: Ahad Mohamed
 logo: /assets/Headshot.png
+logo_width: 100px
 #description text below logo
 show_download: true
 theme: jekyll-theme-minimal
