@@ -1,4 +1,4 @@
-[**MIP Optimizer**](https://am-msba.github.io/MIP_Optimization_Solver/) | [**ML Prediction Modeling**](https://am-msba.github.io/Machine_Learning_Prediction_Project/) | 
+[**MIP Optimizer**](https://am-msba.github.io/MIP_Optimization_Solver/) | [**ML Prediction Modeling**](https://am-msba.github.io/Machine_Learning_Prediction_Project/) | [**AWS Prediction**](https://am-msba.github.io/Amazon_AWS_Predictor/)
 
 ---
 
